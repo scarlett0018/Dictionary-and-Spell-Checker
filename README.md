@@ -2,7 +2,7 @@
 
 # Dictionary and Spell Checker
 
-This project is a C implementation of a dictionary and spell-checking program. The program allows users to add words to a dictionary, look up words, and perform spell-checking on text files using the dictionary.
+This project is a C implementation of a dictionary and spell-checking program. It is the first project of CSCI2021 in University of Minnesota, Twin Cities. The program allows users to add words to a dictionary, look up words, and perform spell-checking on text files using the dictionary.
 
 ## Features
 
